@@ -160,3 +160,6 @@ p {
     height: 80vh;
   }
 }
+@media screen and (max-width: 600px) {
+  /* Styles for screens less than or equal to 600px wide */
+}

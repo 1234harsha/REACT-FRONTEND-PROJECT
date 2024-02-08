@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+ 
     <meta name="theme-color" content="#000000" />
     <meta
       name="description"
@@ -11,7 +12,23 @@
     />
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
 
-
+    <style>
+      /* Default styles */
+      body {
+          font-family: Arial, sans-serif;
+      }
+      .container {
+          max-width: 1200px;
+          margin: 0 auto;
+          padding: 20px;
+      }
+      /* Media query for smaller screens */
+      @media screen and (max-width: 768px) {
+          .container {
+              padding: 10px;
+          }
+      }
+  </style>
  <!-- Nepcha is a easy-to-use web analytics. No cookies and fully compliant with GDPR, CCPA and PECR. -->
  <script defer data-site="YOUR_DOMAIN_HERE" src="https://api.nepcha.com/js/nepcha-analytics.js"></script>
 
