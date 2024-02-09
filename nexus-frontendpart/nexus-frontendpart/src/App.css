@@ -10,7 +10,7 @@ body {
 }
 /*------------global-----------*/
 .container {
-  max-width: 85%;
+  max-width: 80%;
   margin: auto;
 }
 .flexSB {
@@ -24,7 +24,7 @@ body {
   border-radius: 50%;
   text-align: center;
   background-color: rgba(255, 255, 255, 0.3);
-  color: #1eb2a6;
+  color: #202726;
   transition: 0.5s;
 }
 .icon:hover {
@@ -110,7 +110,7 @@ p {
   text-transform: uppercase;
 }
 .margin {
-  margin-top: 40.3%;
+  margin-top: 48.3%;
 }
 .grid {
   display: grid;

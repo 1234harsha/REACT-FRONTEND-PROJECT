@@ -2,14 +2,14 @@ export const homeAbout = [
   {
     id: 1,
     cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
-    title: "Online Courses",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "MUSIC THERAPY FOR THE UK MARKET - SINGFIT'S STORY",
+    desc: "A US-based healthcare company with an innovative approach to treatment is readying its launch into the UK market. SingFit delivers music – specifically singing – as an intervention for a range of health conditions.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-    title: "Earn A Certificates",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "ITECHO HEALTH’S STORY",
+    desc: " Through his work, he identified that there was a gap in the market for a platform to digitally monitor patients with long term health conditions. In 2018, Adrian joined forces with digital tech expert, Lalit Suryawanshi, and together they founded Itecho Health.",
   },
   {
     id: 1,
@@ -41,134 +41,7 @@ export const awrapper = [
     title: "COURSES",
   },
 ]
-export const coursesCard = [
-  {
-    id: 1,
-    cover: "../images/courses/c1.png",
-    coursesName: "Introducing to Software Engineering",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by John Smith",
-        totalTime: "50 lectures (190 hrs)",
-      },
-    ],
-    priceAll: "$100 All Course",
-    pricePer: "$15 per month",
-  },
-  {
-    id: 2,
-    cover: "../images/courses/c2.png",
-    coursesName: "Enhancing Adobe Photoshop CC 2020 Skills",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Ram Gurung",
-        totalTime: "30 lectures (125 hrs)",
-      },
-    ],
-    priceAll: "$200 All Course",
-    pricePer: "$25 per month",
-  },
-  {
-    id: 3,
-    cover: "../images/courses/c3.png",
-    coursesName: "HTML, CSS, and Javascript for Web Developers",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Saroj Nepal",
-        totalTime: "50 lectures (50 hrs)",
-      },
-    ],
-    priceAll: "$50 All Course",
-    pricePer: "$5 per month",
-  },
-  {
-    id: 4,
-    cover: "../images/courses/c4.png",
-    coursesName: "Introducing to Programming with WordPress",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Prabin Thapa Mager",
-        totalTime: "20 lectures (20 hrs)",
-      },
-    ],
-    priceAll: "$30 All Course",
-    pricePer: "$3 per month",
-  },
-  {
-    id: 5,
-    cover: "../images/courses/c5.png",
-    coursesName: "Introducing to Programming with ReactJS",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Sunil Bishowkaram",
-        totalTime: "100 lectures (150 hrs)",
-      },
-    ],
-    priceAll: "$300 All Course",
-    pricePer: "$30 per month",
-  },
-  {
-    id: 6,
-    cover: "../images/courses/c6.png",
-    coursesName: "Learn Frontend Programming Language",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Sunil Bishowkaram",
-        totalTime: "200 lectures (300 hrs)",
-      },
-    ],
-    priceAll: "$500 All Course",
-    pricePer: "$80 per month",
-  },
-  {
-    id: 7,
-    cover: "../images/courses/c7.png",
-    coursesName: "Introducing to with HTML / CSS",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Price",
-        totalTime: "20 lectures (50 hrs)",
-      },
-    ],
-    priceAll: "$20 All Course",
-    pricePer: "$2 per month",
-  },
-  {
-    id: 8,
-    cover: "../images/courses/c8.png",
-    coursesName: "Introducing to with JAVA",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Petter",
-        totalTime: "80 lectures (200 hrs)",
-      },
-    ],
-    priceAll: "$200 All Course",
-    pricePer: "$40 per month",
-  },
-  {
-    id: 9,
-    cover: "../images/courses/c9.png",
-    coursesName: "Introducing to with HTML / CSS / JAVASCRIPT",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Petter",
-        totalTime: "50 lectures (50 hrs)",
-      },
-    ],
-    priceAll: "$20 All Course",
-    pricePer: "$3 per month",
-  },
-]
+
 export const online = [
   {
     cover: "./images/courses/online/o1.png",
@@ -336,58 +209,30 @@ export const faq = [
 export const blog = [
   {
     id: 1,
-    type: "admin",
-    date: "JAN. 18, 2021",
-    com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b1.webp",
+    type: "Events",
+    date: "26 January 2024",
+    title: "JOIN THE NEXUS SOCIAL COMMITTEE",
+    desc: "We’re planning new socials and events for 2024. We'd love to hear your thoughts at our new Nexus social committee.",
+    cover: "../images/testo/t1.jpg",
   },
   {
     id: 2,
-    type: "admin",
-    date: "API. 25, 2022",
-    com: "5 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b2.webp",
+    type: "NEWS",
+    date: "26 November 2023",
+    title: "INVESTMENT ZONE BOOSTS LEEDS’ INNOVATION AMBITIONS AND VISION",
+    desc: "The Leeds Innovation Partnership has welcomed news that West Yorkshire is to be home to the country’s third Investment Zone, boosting the city’s ambition to deliver innovation that creates a healthier, greener and inclusive future for Leeds, the region and across the globe.",
+    cover: "../images/blog/b2.jpg",
   },
   {
     id: 3,
-    type: "user",
-    date: "MAY. 15, 2022",
-    com: "10 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b3.webp",
+    type: "COMMUNITY|NEWS",
+    date: "3 Nov 2023",
+
+    title: "UK CENTRE FOR GREENING FINANCE AND INVESTMENT OPENS IN NEXUS",
+    desc: "Stronger links between UK science and innovation and financial institutions will be forged at a new UK CGFI Innovation Hub in Leeds.",
+    cover: "../images/blog/b3.jpg",
   },
-  {
-    id: 4,
-    type: "admin",
-    date: "JAN. 02, 2022",
-    com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b4.webp",
-  },
-  {
-    id: 5,
-    type: "admin",
-    date: "DEC. 14, 2022",
-    com: "3 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b5.webp",
-  },
-  {
-    id: 6,
-    type: "user",
-    date: "JAN. 18, 2021",
-    com: "12 COMMENTS ",
-    title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-    cover: "../images/blog/b6.webp",
-  },
+  
 ]
 export const testimonal = [
   {
@@ -395,7 +240,7 @@ export const testimonal = [
     name: "ROGER SCOTT",
     post: "MARKETING MANAGER",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "./images/testo/t1.webp",
+    cover: "./images/testo/t1.jpg",
   },
   {
     id: 2,
